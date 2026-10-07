@@ -77,6 +77,8 @@ data/
   timing_sweep/                 NetLogo plot exports, one CSV per vaccination month
 analysis/
   analyze_timing_sweep.py       parses the exports, writes the summary table and figures
+original scripts/               first-draft analysis scripts, kept for the record;
+                                superseded by analysis/analyze_timing_sweep.py
 results/
   timing_sweep_summary.csv      per-run summary metrics
 figures/
