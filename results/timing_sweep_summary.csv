@@ -1,0 +1,13 @@
+vaccination_month,season,coverage,initial_population,peak_population,min_population,population_year_1,population_year_5,final_population,mean_population_years_6_10,pct_of_initial_years_6_10,went_extinct
+August,Swarming,0.4,82,82,10,29,15,23,16.9,20.7,False
+September,Swarming,0.4,82,82,29,47,48,38,36.6,44.7,False
+October,Hibernation,0.4,82,82,0,14,0,0,0.0,0.0,True
+November,Hibernation,0.4,82,82,3,32,7,3,3.7,4.5,False
+December,Hibernation,0.4,82,87,7,34,7,15,12.3,15.0,False
+January,Hibernation,0.4,82,96,7,53,19,7,11.4,13.9,False
+February,Hibernation,0.4,82,100,8,60,13,13,12.2,14.8,False
+March,Hibernation,0.4,82,97,3,65,12,6,7.0,8.5,False
+April,Hibernation,0.4,82,111,5,88,8,6,7.5,9.2,False
+May,Roosting,0.4,82,95,1,52,2,1,2.0,2.4,False
+June,Roosting,0.4,82,90,2,41,6,4,3.6,4.4,False
+July,Roosting,0.4,82,90,25,55,31,33,34.6,42.3,False
